@@ -8,7 +8,7 @@ int main (void){
   float maior;
   float menor;
   
-  for(i=10;i>=0;i--){
+  for(i=9;i>=0;i--){
 
     printf("Preenchendo a posicao %d:", i);
     scanf("%f", &numero[i]);
